@@ -1,0 +1,44 @@
+.entete
+{
+    background-image: url('./../../assets/slider_image_home@2x.png');
+    padding-top: 1%;
+    padding-bottom: 2%;
+   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    width: 80%;
+    height: 100%;
+}
+.mynav
+{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+.separation
+{
+    height: 120px;
+}
+p 
+{
+    color: white;
+    
+}
+a {
+    text-decoration: none;
+  }
+  a:link 
+  { 
+  text-decoration:none; 
+  } 
+h1
+{
+    color: white;  
+}
+.mybtn
+{
+ background-image:url('./../../assets/btn_1_pressed@2x.png') no-repeat;
+ background-color: transparent;
+  border: 10px white solid;
+  width: 30%;
+}
